@@ -270,7 +270,7 @@ Absence de Garantie
 
 
 
-L'Auteur (David Mota) ne fournit aucune garantie, explicite ou implicite, concernant :
+L'Auteur (EpSiLoNPoInT) ne fournit aucune garantie, explicite ou implicite, concernant :
 
 
 
@@ -476,15 +476,15 @@ Pour toute question légale ou technique concernant cet outil :
 
 
 
-Auteur : David Mota
+Auteur : EpSiLoNPoInT
 
 
 
-Email : david.mota@example.com (à remplacer par ton email réel)
+Email : epsilonpoint555@outlook.fr
 
 
 
-GitHub : @davidmota (à remplacer par ton profil)
+GitHub : EpSiLoNPoInTOrI
 
 
 
